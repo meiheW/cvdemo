@@ -2,6 +2,7 @@
   <h1>
     cvdemo
   </h1>
+  <img src="pics/LogoMakr_3SXxzw.png" width="150px">
 <div>
 
 ## About
