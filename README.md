@@ -2,7 +2,7 @@
   <h1>
     cvdemo
   </h1>
-<div align="center">
+<div>
 
 
 ## opencv基础图像算法源码实现
